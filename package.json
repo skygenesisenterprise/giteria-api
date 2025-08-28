@@ -1,0 +1,24 @@
+{
+  "name": "giteria-api",
+  "version": "1.0.0",
+  "description": "The Giteria API Service",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skygenesisenterprise/giteria-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skygenesisenterprise/giteria-api/issues"
+  },
+  "homepage": "https://github.com/skygenesisenterprise/giteria-api#readme"
+}
